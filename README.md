@@ -1,2 +1,2 @@
-# Node-with-React-Fullstack-Web-Development-Your-progress
+# Emaily: A Survey Distributer and Collector
 [link to Project](https://mailnget.herokuapp.com/)
